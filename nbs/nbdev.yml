@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbd"
+  site-url: "https://johnclicking.github.io/nbd"
+  description: "a nbd research projec"
+  repo-branch: main
+  repo-url: "https://github.com/johnclicking/nbd"
