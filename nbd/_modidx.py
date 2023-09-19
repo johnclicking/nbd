@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://johnclicking.github.io',
                 'git_url': 'https://github.com/johnclicking/nbd',
                 'lib_path': 'nbd'},
-  'syms': {'nbd.core': {'nbd.core.foo': ('core.html#foo', 'nbd/core.py')}}}
+  'syms': { 'nbd.cc': {'nbd.cc.foo': ('ac.html#foo', 'nbd/cc.py'), 'nbd.cc.say_hello': ('ac.html#say_hello', 'nbd/cc.py')},
+            'nbd.core': {'nbd.core.foo': ('core.html#foo', 'nbd/core.py')}}}
